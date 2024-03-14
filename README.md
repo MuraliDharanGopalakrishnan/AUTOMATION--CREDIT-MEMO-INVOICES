@@ -11,3 +11,14 @@
 
 
 ![image](https://github.com/MuraliDharanGopalakrishnan/AUTOMATION--CREDIT-MEMO-INVOICES/assets/102019076/3272ceb2-266e-4753-815a-41015cdac069)
+
+
+
+Used UBAQ to Utilize the BPM functionality to Create Invoice Misc .
+
+![image](https://github.com/MuraliDharanGopalakrishnan/AUTOMATION--CREDIT-MEMO-INVOICES/assets/102019076/9a9280f8-7faf-4a5e-a7be-22dd375e17a3)
+
+
+Advanced BPM function to Invoke InvcMisc for a New Record.
+![image](https://github.com/MuraliDharanGopalakrishnan/AUTOMATION--CREDIT-MEMO-INVOICES/assets/102019076/830fba57-dac7-467d-8848-02dd06e2a8d6)
+
