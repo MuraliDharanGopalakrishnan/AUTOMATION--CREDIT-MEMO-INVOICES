@@ -13,6 +13,13 @@
 ![image](https://github.com/MuraliDharanGopalakrishnan/AUTOMATION--CREDIT-MEMO-INVOICES/assets/102019076/3272ceb2-266e-4753-815a-41015cdac069)
 
 
+Invokng UBAQ From Post-Processing of RMACreditAdd Method and Passing the parameters
+
+
+![image](https://github.com/MuraliDharanGopalakrishnan/AUTOMATION--CREDIT-MEMO-INVOICES/assets/102019076/f8423fac-be56-4ea4-ae40-732f5e5e49fa)
+
+
+
 
 Used UBAQ to Utilize the BPM functionality to Create Invoice Misc .
 
